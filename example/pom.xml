@@ -67,7 +67,7 @@
 				<artifactId>site-maven-plugin</artifactId>
 				<version>0.7</version>
 				<configuration>
-					<message>Building site for ${project.version}</message>
+					<message> http://172.31.1.96 </message>
 					<server>github</server>
 				</configuration>
 				<executions>
